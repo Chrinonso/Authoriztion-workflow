@@ -38,7 +38,6 @@
 
 #### Email Setup
 
-- [] re-watch project 08
 - [] ethereal credentials (create account/login)
 - [] install nodemailer
 - [] create (nodemailerConfig, sendEmail,
